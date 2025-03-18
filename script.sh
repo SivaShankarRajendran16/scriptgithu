@@ -14,3 +14,4 @@ ls -la my_folder
 
 echo "✅ Script execution finished!"
 
+echo 'Hello from rebase branch'

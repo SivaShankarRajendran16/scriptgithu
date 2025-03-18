@@ -13,5 +13,6 @@ echo "📂 Listing files:"
 ls -la my_folder
 
 echo "✅ Script execution finished!"
+echo "echo 'Hello from rebase branch'" 
 
 echo 'Hello from rebase branch'
